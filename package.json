@@ -1,0 +1,22 @@
+{
+  "name": "ascii-fun",
+  "version": "0.0.1",
+  "description": "ASCII art of the image",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/fun.js && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2a2b/ascii-fun.git"
+  },
+  "keywords": [
+    "ascii"
+  ],
+  "author": "2a2b",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2a2b/ascii-fun/issues"
+  },
+  "homepage": "https://github.com/2a2b/ascii-fun#readme"
+}
